@@ -1,10 +1,3 @@
-
--- =====================================================
--- PROJECT 4: CUSTOMER SHOPPING BEHAVIOR ANALYSIS
--- DATABASE: PostgreSQL
--- =====================================================
-
-
 -- 1. CREATE CUSTOMERS TABLE
 
 CREATE TABLE shopping_customers (
